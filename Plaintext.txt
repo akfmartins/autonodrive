@@ -1,0 +1,16 @@
+AutonoDrive/
+├── App.js
+├── navigation/
+│   └── TabNavigator.js
+├── screens/
+│   ├── DashboardScreen.js
+│   ├── HotZonesScreen.js
+│   ├── PerformanceScreen.js
+│   ├── MaintenanceScreen.js
+│   ├── FinanceScreen.js
+│   ├── IntelligenceScreen.js
+│   ├── ProfileScreen.js
+│   └── OffDriveScreen.js
+├── assets/
+├── README.md
+└── package.json
